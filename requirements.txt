@@ -1,0 +1,15 @@
+openai
+tiktoken
+huggingface_hub
+python-dotenv
+langchain
+gradio
+google-search-results
+unstructured
+pytube
+youtube-transcript-api
+pinecone-client
+typing-inspect
+typing_extensions
+numexpr
+pypdf
