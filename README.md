@@ -18,6 +18,6 @@ Get started by:
 
 You may need to create accounts at the different sites used in the labs:
 
-<https://huggingface.co/>
-<https://serpapi.com/>
-<https://www.pinecone.io/> - the notebook requires an instance of a vector db to be created, pinecone allows for one free instance, the instance will need to have 1536 dimensions to work with the embeddings produced by text-embedding-ada-002 model
+* <https://huggingface.co/>
+* <https://serpapi.com/>
+* <https://www.pinecone.io/> - the notebook requires an instance of a vector db to be created, pinecone allows for one free instance, the instance will need to have 1536 dimensions to work with the embeddings produced by text-embedding-ada-002 model
